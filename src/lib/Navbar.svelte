@@ -1,6 +1,5 @@
 <script>
     import { onMount } from "svelte";
-    import { tweened } from "svelte/motion";
     import { cubicOut } from "svelte/easing";
     import { slide } from "svelte/transition";
 
